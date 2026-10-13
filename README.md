@@ -2,7 +2,13 @@
 
 **Full-stack & AI-agent engineer.** I design, build and run complete AI products: the data model, the API, the interface, and the agents that work inside them.
 
-English · Français · 日本語 · Remote from Bangkok (UTC+7) · Available for freelance contracts
+**Open to AI engineering lead roles.** English · Français · 日本語 (JLPT N1) · Remote from Bangkok (UTC+7)
+
+Before AI, I founded a B2B SaaS and sold it to a listed Japanese real-estate company, after about ten years living and working in Japan (Kyoto University).
+
+### Featured: [vibedash-ai-employee](https://github.com/brocketdesign/vibedash-ai-employee)
+
+An autonomous AI employee for a small online business. Every night a planner picks the one task most likely to make money, a specialised agent does it with real tools (code sandbox, web server, X account, email), a separate check confirms the work actually landed, and the founder gets a report by morning. Eight agents share one `run()` / `verify()` contract; only verified outcomes feed the planner's memory; AI spend is metered; outreach is capped and never invents contacts. Next.js, TypeScript, MongoDB, with unit and end-to-end tests in CI.
 
 ### Highlights
 
